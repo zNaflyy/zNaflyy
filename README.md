@@ -17,3 +17,6 @@ My name is Matheus, and I'm passionate about Javascript/Typescript and the whole
 <a href="https://www.youtube.com/c/oNaflyy">
  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white" />
 </a>  
+
+### Profile Views
+![](https://komarev.com/ghpvc/?username=zNaflyy&color=006bed)
