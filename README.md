@@ -1,11 +1,11 @@
 ## 💜 Olá, meu nome é <strong>Naflyy!</strong>
 
 
-⭐ Informações sobre minha conta GitHub
+### ⭐ Informações sobre minha conta GitHub
 
-🔭 Hoje em dia estou trabalhando em diferentes tipos de projetos!
+### 🔭 Hoje em dia estou trabalhando em diferentes tipos de projetos!
 
-📚 Aprendendo TypeScript e ReactJS
+### 📚 Aprendendo TypeScript e ReactJS
 
 ----
 
