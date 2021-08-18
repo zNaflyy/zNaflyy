@@ -2,7 +2,7 @@
 
 My name is Matheus, and I'm passionate about Javascript/Typescript and the whole ecosystem around this technology.
 
-- 🌱 I’m currently learning Javascript/Typescript (Nodejs and PHP) 🛢💻📱
+- 🌱 I’m currently learning Javascript/Typescript (HTML and CSS) 🛢💻📱
 - 👯 I’m looking to collaborate on OpenSource projects or to help the community in any way 🚀
 - 📫 How to get to me: click on any of the badges below and call me to chat 💬
 
