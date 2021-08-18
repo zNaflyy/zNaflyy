@@ -1,22 +1,22 @@
-## Welcome to my profile 🙋‍♂️
+## 💜 Olá, meu nome é <strong>Naflyy!</strong>
 
-My name is Matheus, and I'm passionate about Javascript/Typescript and the whole ecosystem around this technology.
 
-- 🌱 I’m currently learning Javascript/Typescript (HTML and CSS) 🛢💻📱
-- 👯 I’m looking to collaborate on OpenSource projects or to help the community in any way 🚀
-- 📫 How to get to me: click on any of the badges below and call me to chat 💬
+⭐ Informações sobre minha conta GitHub
 
-<a href="https://twitter.com/Naflyy1">
- <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" />
-</a>
+🔭 Hoje em dia estou trabalhando em diferentes tipos de projetos!
 
-<a href="https://www.instagram.com/onaflyy_/">
- <img src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white" />
-</a>
+📚 Aprendendo TypeScript e ReactJS
 
-<a href="https://www.youtube.com/c/oNaflyy">
- <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white" />
-</a>  
+----
 
-## Profile Views
-![](https://komarev.com/ghpvc/?username=zNaflyy&color=006bed)
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+---
